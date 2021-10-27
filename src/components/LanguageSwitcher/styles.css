@@ -1,0 +1,17 @@
+.language-switcher {
+  display: flex;
+  align-items: center;
+}
+
+.language-switcher > button {
+  cursor: pointer;
+  background: none;
+  border: none;
+  height: 70px;
+  width: 70px;
+}
+
+.language-switcher > button > span {
+  color: white;
+  font-size: 10px;
+}
