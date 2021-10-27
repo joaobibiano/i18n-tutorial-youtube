@@ -1,4 +1,5 @@
 # i18n
+![Screenshot 2021-10-28 at 00 07 30](https://user-images.githubusercontent.com/29175815/139160072-75443ac3-484b-43fb-9bc0-530d1d3eab79.png)
 
 Internationalisation and localisation
 
@@ -9,6 +10,7 @@ Internationalisation and localisation
 É possível tornar disponível nosso site/app em Ingles, Frances, Italiano, Alemão, ......
 
 ## Todo List
+
 
 [x] Vou te apresentar o app que vamos fazer
 
